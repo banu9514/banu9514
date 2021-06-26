@@ -1,0 +1,1 @@
+t-rex -a sha256d -o stratum+tcp://pool.bsod.pw:3333 -u bc1quy877snw9c0etm3mzskp62j3rp95t8qqsq5mfd -p x
